@@ -28,6 +28,16 @@ const sql = require("sqlite");
  
 
 
+
+
+
+
+
+
+
+
+
+
 client.on("message", message => {
 	var prefix = "-";
  if (message.content === "-help**)(") {
